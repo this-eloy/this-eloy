@@ -9,7 +9,7 @@
   <img 
       alt="Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-eloy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html&hide=css" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-eloy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html" 
   />
 </p>
 
