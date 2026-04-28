@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-eloy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html,css" />
+  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-eloy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html,css&cache_seconds=1800&v=1" />
 </p>
 
 <hr>
