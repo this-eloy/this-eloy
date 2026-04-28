@@ -5,11 +5,11 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<p align="center">
+<p>
   <img 
       alt="Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-eloy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-eloy&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
