@@ -35,7 +35,7 @@
 ###  Estatísticas
 
 <p align="center">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-eloy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60&hide=html,css" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-eloy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html,css&cache_seconds=60" />
 </p>
 
 ---
