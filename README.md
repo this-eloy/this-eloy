@@ -35,7 +35,7 @@
 ###  Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-eloy&theme=tokyonight&layout=donut&hide=html,css" />
+  <img src="https://github-readme-stats-this-eloy.vercel.app/api/top-langs/?username=this-eloy&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515" alt="Top Langs" />
 </p>
 
 ---
