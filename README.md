@@ -34,9 +34,7 @@
 
 ###  Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-eloy&theme=tokyonight&layout=donut&custom_title=Tecnologias&langs_count=9&hide=html,css" alt="Top Langs" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=this-eloy&theme=tokyonight)
 
 ---
 
