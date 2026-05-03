@@ -34,7 +34,9 @@
 
 ###  Estatísticas
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=this-eloy&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-eloy&theme=tokyonight&layout=donut&hide=html,css" />
+</p>
 
 ---
 
